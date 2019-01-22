@@ -36,7 +36,7 @@ const styles = createStyles({
     }
   },
   productTitle: {
-    flexBasis: '56%',
+    flexBasis: '53%',
     fontSize: 12
   },
   basketTitle: {
